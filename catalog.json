@@ -1,0 +1,524 @@
+[
+  {
+    "id": "zelda-original",
+    "title": "The Legend of Zelda",
+    "date": "1986-02-21",
+    "platform": "Famicom Disk System / NES",
+    "kind": "Original",
+    "series": "core",
+    "status": "not-started"
+  },
+  {
+    "id": "zelda-ii",
+    "title": "Zelda II: The Adventure of Link",
+    "date": "1987-01-14",
+    "platform": "Famicom Disk System / NES",
+    "kind": "Original",
+    "series": "core",
+    "status": "not-started"
+  },
+  {
+    "id": "zelda-game-and-watch-1989",
+    "title": "Zelda (Game & Watch)",
+    "date": "1989-08",
+    "platform": "Game & Watch",
+    "kind": "Original LCD game",
+    "series": "spin-off",
+    "status": "not-started"
+  },
+  {
+    "id": "zelda-nelsonic-game-watch",
+    "title": "The Legend of Zelda Game Watch",
+    "date": "1989-10-05",
+    "platform": "Nelsonic Game Watch",
+    "kind": "Licensed LCD game",
+    "series": "licensed",
+    "status": "not-started"
+  },
+  {
+    "id": "alttp-original",
+    "title": "The Legend of Zelda: A Link to the Past",
+    "date": "1991-11-21",
+    "platform": "Super Nintendo",
+    "kind": "Original",
+    "series": "core",
+    "status": "not-started"
+  },
+  {
+    "id": "zelda-barcode-battler-ii",
+    "title": "Zelda no Densetsu: Kamigami no Triforce (Barcode Battler II)",
+    "date": "1992",
+    "platform": "Barcode Battler II",
+    "kind": "Licensed adaptation",
+    "series": "licensed",
+    "status": "not-started"
+  },
+  {
+    "id": "links-awakening-original",
+    "title": "The Legend of Zelda: Link's Awakening",
+    "date": "1993-06-06",
+    "platform": "Game Boy",
+    "kind": "Original",
+    "series": "core",
+    "status": "not-started"
+  },
+  {
+    "id": "link-the-faces-of-evil",
+    "title": "Link: The Faces of Evil",
+    "date": "1993-10-10",
+    "platform": "Philips CD-i",
+    "kind": "Licensed adventure",
+    "series": "licensed",
+    "status": "not-started"
+  },
+  {
+    "id": "zelda-the-wand-of-gamelon",
+    "title": "Zelda: The Wand of Gamelon",
+    "date": "1993-10-10",
+    "platform": "Philips CD-i",
+    "kind": "Licensed adventure",
+    "series": "licensed",
+    "status": "not-started"
+  },
+  {
+    "id": "bs-zelda-map-1",
+    "title": "BS Zelda no Densetsu",
+    "date": "1995-08-06",
+    "platform": "Super Famicom / Satellaview",
+    "kind": "Broadcast remake",
+    "series": "broadcast",
+    "status": "not-started"
+  },
+  {
+    "id": "bs-zelda-map-2",
+    "title": "BS Zelda no Densetsu: MAP2",
+    "date": "1995-12-30",
+    "platform": "Super Famicom / Satellaview",
+    "kind": "Remixed broadcast quest",
+    "series": "broadcast",
+    "status": "not-started"
+  },
+  {
+    "id": "zeldas-adventure",
+    "title": "Zelda's Adventure",
+    "date": "1996-02",
+    "platform": "Philips CD-i",
+    "kind": "Licensed adventure",
+    "series": "licensed",
+    "status": "not-started"
+  },
+  {
+    "id": "bs-zelda-ancient-stone-tablets",
+    "title": "BS The Legend of Zelda: Ancient Stone Tablets",
+    "date": "1997-03-30",
+    "platform": "Super Famicom / Satellaview",
+    "kind": "Original broadcast adventure",
+    "series": "broadcast",
+    "status": "not-started"
+  },
+  {
+    "id": "ocarina-original",
+    "title": "The Legend of Zelda: Ocarina of Time",
+    "date": "1998-11-21",
+    "platform": "Nintendo 64",
+    "kind": "Original",
+    "series": "core",
+    "status": "not-started"
+  },
+  {
+    "id": "links-awakening-dx",
+    "title": "The Legend of Zelda: Link's Awakening DX",
+    "date": "1998-12-12",
+    "platform": "Game Boy Color",
+    "kind": "Enhanced",
+    "series": "core",
+    "status": "not-started"
+  },
+  {
+    "id": "majoras-mask-original",
+    "title": "The Legend of Zelda: Majora's Mask",
+    "date": "2000-04-27",
+    "platform": "Nintendo 64",
+    "kind": "Original",
+    "series": "core",
+    "status": "not-started"
+  },
+  {
+    "id": "oracle-seasons",
+    "title": "The Legend of Zelda: Oracle of Seasons",
+    "date": "2001-02-27",
+    "platform": "Game Boy Color",
+    "kind": "Original",
+    "series": "core",
+    "status": "not-started"
+  },
+  {
+    "id": "oracle-ages",
+    "title": "The Legend of Zelda: Oracle of Ages",
+    "date": "2001-02-27",
+    "platform": "Game Boy Color",
+    "kind": "Original",
+    "series": "core",
+    "status": "not-started"
+  },
+  {
+    "id": "ocarina-master-quest",
+    "title": "The Legend of Zelda: Ocarina of Time Master Quest",
+    "date": "2002-11-28",
+    "platform": "Nintendo GameCube",
+    "kind": "Reworked",
+    "series": "core",
+    "status": "not-started"
+  },
+  {
+    "id": "alttp-gba",
+    "title": "The Legend of Zelda: A Link to the Past (Game Boy Advance)",
+    "date": "2002-12-02",
+    "platform": "Game Boy Advance",
+    "kind": "Enhanced",
+    "series": "core",
+    "status": "not-started"
+  },
+  {
+    "id": "four-swords-original",
+    "title": "The Legend of Zelda: Four Swords",
+    "date": "2002-12-02",
+    "platform": "Game Boy Advance",
+    "kind": "Original",
+    "series": "core",
+    "status": "not-started"
+  },
+  {
+    "id": "wind-waker-original",
+    "title": "The Legend of Zelda: The Wind Waker",
+    "date": "2002-12-13",
+    "platform": "Nintendo GameCube",
+    "kind": "Original",
+    "series": "core",
+    "status": "not-started"
+  },
+  {
+    "id": "collectors-edition",
+    "title": "The Legend of Zelda: Collector’s Edition",
+    "date": "2003-11-14",
+    "platform": "GameCube",
+    "kind": "Collection",
+    "series": "collection",
+    "status": "not-started"
+  },
+  {
+    "id": "four-swords-adventures",
+    "title": "The Legend of Zelda: Four Swords Adventures",
+    "date": "2004-03-18",
+    "platform": "Nintendo GameCube",
+    "kind": "Original",
+    "series": "core",
+    "status": "not-started"
+  },
+  {
+    "id": "navi-trackers",
+    "title": "Navi Trackers",
+    "date": "2004-03-18",
+    "platform": "Nintendo GameCube",
+    "kind": "Included multiplayer game",
+    "series": "spin-off",
+    "status": "not-started"
+  },
+  {
+    "id": "minish-cap",
+    "title": "The Legend of Zelda: The Minish Cap",
+    "date": "2004-11-04",
+    "platform": "Game Boy Advance",
+    "kind": "Original",
+    "series": "core",
+    "status": "not-started"
+  },
+  {
+    "id": "tingles-rosy-rupeeland",
+    "title": "Freshly-Picked Tingle's Rosy Rupeeland",
+    "date": "2006-09-02",
+    "platform": "Nintendo DS",
+    "kind": "Original spin-off",
+    "series": "spin-off",
+    "status": "not-started"
+  },
+  {
+    "id": "twilight-princess-original",
+    "title": "The Legend of Zelda: Twilight Princess",
+    "date": "2006-11-19",
+    "platform": "Wii / Nintendo GameCube",
+    "kind": "Original",
+    "series": "core",
+    "status": "not-started"
+  },
+  {
+    "id": "tingles-balloon-fight-ds",
+    "title": "Tingle's Balloon Fight DS",
+    "date": "2007-04-12",
+    "platform": "Nintendo DS",
+    "kind": "Spin-off remake",
+    "series": "spin-off",
+    "status": "not-started"
+  },
+  {
+    "id": "phantom-hourglass",
+    "title": "The Legend of Zelda: Phantom Hourglass",
+    "date": "2007-06-23",
+    "platform": "Nintendo DS",
+    "kind": "Original",
+    "series": "core",
+    "status": "not-started"
+  },
+  {
+    "id": "links-crossbow-training",
+    "title": "Link's Crossbow Training",
+    "date": "2007-11-19",
+    "platform": "Wii",
+    "kind": "Original spin-off",
+    "series": "spin-off",
+    "status": "not-started"
+  },
+  {
+    "id": "dekisugi-tingle-pack",
+    "title": "Dekisugi Tingle Pack",
+    "date": "2009-06-24",
+    "platform": "Nintendo DSi / DSiWare",
+    "kind": "Tools and minigames",
+    "series": "spin-off",
+    "status": "not-started"
+  },
+  {
+    "id": "tingles-balloon-trip-of-love",
+    "title": "Irozuki Tingle no Koi no Balloon Trip",
+    "date": "2009-08-06",
+    "platform": "Nintendo DS",
+    "kind": "Original spin-off",
+    "series": "spin-off",
+    "status": "not-started"
+  },
+  {
+    "id": "spirit-tracks",
+    "title": "The Legend of Zelda: Spirit Tracks",
+    "date": "2009-12-07",
+    "platform": "Nintendo DS",
+    "kind": "Original",
+    "series": "core",
+    "status": "not-started"
+  },
+  {
+    "id": "ocarina-3d",
+    "title": "The Legend of Zelda: Ocarina of Time 3D",
+    "date": "2011-06-16",
+    "platform": "Nintendo 3DS",
+    "kind": "Remake",
+    "series": "core",
+    "status": "not-started"
+  },
+  {
+    "id": "four-swords-anniversary",
+    "title": "The Legend of Zelda: Four Swords Anniversary Edition",
+    "date": "2011-09-28",
+    "platform": "Nintendo DSi / Nintendo 3DS",
+    "kind": "Enhanced",
+    "series": "core",
+    "status": "not-started"
+  },
+  {
+    "id": "skyward-sword-original",
+    "title": "The Legend of Zelda: Skyward Sword",
+    "date": "2011-11-18",
+    "platform": "Wii",
+    "kind": "Original",
+    "series": "core",
+    "status": "not-started"
+  },
+  {
+    "id": "wind-waker-hd",
+    "title": "The Legend of Zelda: The Wind Waker HD",
+    "date": "2013-09-20",
+    "platform": "Wii U",
+    "kind": "Remaster",
+    "series": "core",
+    "status": "not-started"
+  },
+  {
+    "id": "link-between-worlds",
+    "title": "The Legend of Zelda: A Link Between Worlds",
+    "date": "2013-11-22",
+    "platform": "Nintendo 3DS",
+    "kind": "Original",
+    "series": "core",
+    "status": "not-started"
+  },
+  {
+    "id": "hyrule-warriors",
+    "title": "Hyrule Warriors",
+    "date": "2014-08-14",
+    "platform": "Wii U",
+    "kind": "Original spin-off",
+    "series": "spin-off",
+    "status": "not-started"
+  },
+  {
+    "id": "majoras-mask-3d",
+    "title": "The Legend of Zelda: Majora's Mask 3D",
+    "date": "2015-02-13",
+    "platform": "Nintendo 3DS",
+    "kind": "Remake",
+    "series": "core",
+    "status": "not-started"
+  },
+  {
+    "id": "tri-force-heroes",
+    "title": "The Legend of Zelda: Tri Force Heroes",
+    "date": "2015-10-22",
+    "platform": "Nintendo 3DS",
+    "kind": "Original",
+    "series": "core",
+    "status": "not-started"
+  },
+  {
+    "id": "hyrule-warriors-legends",
+    "title": "Hyrule Warriors Legends",
+    "date": "2016-01-21",
+    "platform": "Nintendo 3DS",
+    "kind": "Expanded port",
+    "series": "spin-off",
+    "status": "not-started"
+  },
+  {
+    "id": "twilight-princess-hd",
+    "title": "The Legend of Zelda: Twilight Princess HD",
+    "date": "2016-03-04",
+    "platform": "Wii U",
+    "kind": "Remaster",
+    "series": "core",
+    "status": "not-started"
+  },
+  {
+    "id": "my-nintendo-picross-twilight-princess",
+    "title": "My Nintendo Picross: The Legend of Zelda: Twilight Princess",
+    "date": "2016-03-17",
+    "platform": "Nintendo 3DS",
+    "kind": "Puzzle spin-off",
+    "series": "spin-off",
+    "status": "not-started"
+  },
+  {
+    "id": "botw-original",
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "date": "2017-03-03",
+    "platform": "Wii U / Nintendo Switch",
+    "kind": "Original",
+    "series": "core",
+    "status": "working"
+  },
+  {
+    "id": "hyrule-warriors-definitive-edition",
+    "title": "Hyrule Warriors: Definitive Edition",
+    "date": "2018-03-22",
+    "platform": "Nintendo Switch",
+    "kind": "Enhanced compilation",
+    "series": "spin-off",
+    "status": "not-started"
+  },
+  {
+    "id": "cadence-of-hyrule",
+    "title": "Cadence of Hyrule: Crypt of the NecroDancer Featuring The Legend of Zelda",
+    "date": "2019-06-13",
+    "platform": "Nintendo Switch",
+    "kind": "Crossover spin-off",
+    "series": "spin-off",
+    "status": "not-started"
+  },
+  {
+    "id": "links-awakening-remake",
+    "title": "The Legend of Zelda: Link's Awakening (Nintendo Switch)",
+    "date": "2019-09-20",
+    "platform": "Nintendo Switch",
+    "kind": "Remake",
+    "series": "core",
+    "status": "not-started"
+  },
+  {
+    "id": "hyrule-warriors-age-of-calamity",
+    "title": "Hyrule Warriors: Age of Calamity",
+    "date": "2020-11-20",
+    "platform": "Nintendo Switch",
+    "kind": "Original spin-off",
+    "series": "spin-off",
+    "status": "not-started"
+  },
+  {
+    "id": "skyward-sword-hd",
+    "title": "The Legend of Zelda: Skyward Sword HD",
+    "date": "2021-07-16",
+    "platform": "Nintendo Switch",
+    "kind": "Remaster",
+    "series": "core",
+    "status": "not-started"
+  },
+  {
+    "id": "game-watch-2021",
+    "title": "Game & Watch: The Legend of Zelda",
+    "date": "2021-11-12",
+    "platform": "Game & Watch",
+    "kind": "Collection + Zelda-themed Vermin",
+    "series": "collection",
+    "status": "not-started"
+  },
+  {
+    "id": "totk-original",
+    "title": "The Legend of Zelda: Tears of the Kingdom",
+    "date": "2023-05-12",
+    "platform": "Nintendo Switch",
+    "kind": "Original",
+    "series": "core",
+    "status": "not-started"
+  },
+  {
+    "id": "echoes-wisdom",
+    "title": "The Legend of Zelda: Echoes of Wisdom",
+    "date": "2024-09-26",
+    "platform": "Nintendo Switch",
+    "kind": "Original",
+    "series": "core",
+    "status": "not-started"
+  },
+  {
+    "id": "botw-switch2",
+    "title": "The Legend of Zelda: Breath of the Wild – Nintendo Switch 2 Edition",
+    "date": "2025-06-05",
+    "platform": "Nintendo Switch 2",
+    "kind": "Enhanced",
+    "series": "core",
+    "status": "not-started"
+  },
+  {
+    "id": "totk-switch2",
+    "title": "The Legend of Zelda: Tears of the Kingdom – Nintendo Switch 2 Edition",
+    "date": "2025-06-05",
+    "platform": "Nintendo Switch 2",
+    "kind": "Enhanced",
+    "series": "core",
+    "status": "not-started"
+  },
+  {
+    "id": "hyrule-warriors-age-of-imprisonment",
+    "title": "Hyrule Warriors: Age of Imprisonment",
+    "date": "2025-11-06",
+    "platform": "Nintendo Switch 2",
+    "kind": "Original spin-off",
+    "series": "spin-off",
+    "status": "not-started"
+  },
+  {
+    "id": "ocarina-switch2-remake",
+    "title": "The Legend of Zelda: Ocarina of Time (Nintendo Switch 2)",
+    "date": "2026-11-05",
+    "platform": "Nintendo Switch 2",
+    "kind": "Remake",
+    "series": "core",
+    "status": "not-started"
+  }
+]
